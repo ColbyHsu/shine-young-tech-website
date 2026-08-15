@@ -1,4 +1,4 @@
-/* ===========================================================
+/* ===========================================================  
    SHINE YOUNG TECH — site stylesheet
    Palette derived from the company deck:
    navy 950 #10222E / navy 800 #1A3244 / panel 700 #263744
@@ -140,10 +140,10 @@ h2.display{
   font-family:var(--font-display);
   font-weight:700;
   font-size:19px;
-  color:var(--white);
+ color:#fb9e4c;
   letter-spacing:.03em;
 }
-.brand-text span{color:var(--teal-400);}
+.brand-text span{color:var＃F0872E;}
 .nav-links{display:flex;align-items:center;gap:10px;}
 .nav-links a{
   padding:9px 22px;
